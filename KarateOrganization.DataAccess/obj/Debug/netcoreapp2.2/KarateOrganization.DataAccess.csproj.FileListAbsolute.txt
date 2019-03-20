@@ -1,0 +1,14 @@
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.DataAccess.deps.json
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.DataAccess.dll
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.DataAccess.pdb
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.Core.dll
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.Entities.dll
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.Core.pdb
+C:\KarateOrganization\KarateOrganization.DataAccess\bin\Debug\netcoreapp2.2\KarateOrganization.Entities.pdb
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.csprojAssemblyReference.cache
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.csproj.CoreCompileInputs.cache
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.AssemblyInfoInputs.cache
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.AssemblyInfo.cs
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.csproj.CopyComplete
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.dll
+C:\KarateOrganization\KarateOrganization.DataAccess\obj\Debug\netcoreapp2.2\KarateOrganization.DataAccess.pdb

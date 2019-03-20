@@ -1,0 +1,12 @@
+C:\KarateOrganization\KarateOrganization.Entities\bin\Debug\netcoreapp2.2\KarateOrganization.Entities.deps.json
+C:\KarateOrganization\KarateOrganization.Entities\bin\Debug\netcoreapp2.2\KarateOrganization.Entities.dll
+C:\KarateOrganization\KarateOrganization.Entities\bin\Debug\netcoreapp2.2\KarateOrganization.Entities.pdb
+C:\KarateOrganization\KarateOrganization.Entities\bin\Debug\netcoreapp2.2\KarateOrganization.Core.dll
+C:\KarateOrganization\KarateOrganization.Entities\bin\Debug\netcoreapp2.2\KarateOrganization.Core.pdb
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.csprojAssemblyReference.cache
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.csproj.CoreCompileInputs.cache
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.AssemblyInfoInputs.cache
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.AssemblyInfo.cs
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.csproj.CopyComplete
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.dll
+C:\KarateOrganization\KarateOrganization.Entities\obj\Debug\netcoreapp2.2\KarateOrganization.Entities.pdb

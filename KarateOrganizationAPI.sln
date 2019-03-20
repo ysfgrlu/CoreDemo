@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarateOrganization.Core", "KarateOrganization.core\KarateOrganization.Core.csproj", "{70C4428D-9988-4650-8D9F-ED259971E16A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarateOrganization.Business", "KarateOrganization.Business\KarateOrganization.Business.csproj", "{8AE70E93-CBA3-41EA-B9B3-B8C651278BA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarateOrganization.DataAccess", "KarateOrganization.DataAccess\KarateOrganization.DataAccess.csproj", "{9A23C542-C34C-4BEA-990D-ADC0769DF824}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarateOrganization.Entities", "KarateOrganization.Entities\KarateOrganization.Entities.csproj", "{A60EEDB8-58EF-41CA-BE83-969BE6002805}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarateOrganization.WebApi", "KarateOrganization.MvcWebUI\KarateOrganization.WebApi.csproj", "{9CA8BF71-73E7-49C2-B7D0-E389EC432485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarateOrganization.Dtos", "KarateOrganization.Dtos\KarateOrganization.Dtos.csproj", "{5B3AEA32-39C2-4776-B21B-CA0CD7CAC0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C4428D-9988-4650-8D9F-ED259971E16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C4428D-9988-4650-8D9F-ED259971E16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C4428D-9988-4650-8D9F-ED259971E16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C4428D-9988-4650-8D9F-ED259971E16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE70E93-CBA3-41EA-B9B3-B8C651278BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE70E93-CBA3-41EA-B9B3-B8C651278BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE70E93-CBA3-41EA-B9B3-B8C651278BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE70E93-CBA3-41EA-B9B3-B8C651278BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A23C542-C34C-4BEA-990D-ADC0769DF824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A23C542-C34C-4BEA-990D-ADC0769DF824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A23C542-C34C-4BEA-990D-ADC0769DF824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A23C542-C34C-4BEA-990D-ADC0769DF824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60EEDB8-58EF-41CA-BE83-969BE6002805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60EEDB8-58EF-41CA-BE83-969BE6002805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60EEDB8-58EF-41CA-BE83-969BE6002805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60EEDB8-58EF-41CA-BE83-969BE6002805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA8BF71-73E7-49C2-B7D0-E389EC432485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA8BF71-73E7-49C2-B7D0-E389EC432485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA8BF71-73E7-49C2-B7D0-E389EC432485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA8BF71-73E7-49C2-B7D0-E389EC432485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3AEA32-39C2-4776-B21B-CA0CD7CAC0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3AEA32-39C2-4776-B21B-CA0CD7CAC0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3AEA32-39C2-4776-B21B-CA0CD7CAC0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3AEA32-39C2-4776-B21B-CA0CD7CAC0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A959F4-2640-4A12-B7A1-E19244E08DF6}
+	EndGlobalSection
+EndGlobal

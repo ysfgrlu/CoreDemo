@@ -1,0 +1,9 @@
+C:\KarateOrganization\KarateOrganization.Dtos\bin\Release\netcoreapp2.2\KarateOrganization.Dtos.deps.json
+C:\KarateOrganization\KarateOrganization.Dtos\bin\Release\netcoreapp2.2\KarateOrganization.Dtos.dll
+C:\KarateOrganization\KarateOrganization.Dtos\bin\Release\netcoreapp2.2\KarateOrganization.Dtos.pdb
+C:\KarateOrganization\KarateOrganization.Dtos\obj\Release\netcoreapp2.2\KarateOrganization.Dtos.csprojAssemblyReference.cache
+C:\KarateOrganization\KarateOrganization.Dtos\obj\Release\netcoreapp2.2\KarateOrganization.Dtos.csproj.CoreCompileInputs.cache
+C:\KarateOrganization\KarateOrganization.Dtos\obj\Release\netcoreapp2.2\KarateOrganization.Dtos.AssemblyInfoInputs.cache
+C:\KarateOrganization\KarateOrganization.Dtos\obj\Release\netcoreapp2.2\KarateOrganization.Dtos.AssemblyInfo.cs
+C:\KarateOrganization\KarateOrganization.Dtos\obj\Release\netcoreapp2.2\KarateOrganization.Dtos.dll
+C:\KarateOrganization\KarateOrganization.Dtos\obj\Release\netcoreapp2.2\KarateOrganization.Dtos.pdb

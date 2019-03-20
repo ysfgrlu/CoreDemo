@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftp://137.74.65.132</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr2ZrZO/BSEC3Tc3sJBdl+AAAAAACAAAAAAAQZgAAAAEAACAAAAAovRjI1pxJocjY2fH8CxsLLvrXr5Q97xDTeq0lRYI7RAAAAAAOgAAAAAIAACAAAACzc24UZixStuqbeW/BbMb2TMDHHgqmiqJw7Bm6X2coWiAAAABdrTxdeXTrTbTq6UAeDmHVODcqrMALEUa/5Xg7/MW9fEAAAAD3DXVYd6J/F2eWu/jvFfmuL47K9VEYSSIyQ3y/zp9cKPYGHchqviONXcfdupsVFviSFLYUlCDlsKBYM05VqRJ5</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>03/13/2019 23:28:04</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>03/13/2019 23:28:04</publishTime>
+    </File>
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>01/24/2019 23:32:12</publishTime>
+    </File>
+    <File Include="KarateOrganization.Business.dll">
+      <publishTime>03/18/2019 01:17:41</publishTime>
+    </File>
+    <File Include="KarateOrganization.Business.pdb">
+      <publishTime>03/18/2019 01:17:41</publishTime>
+    </File>
+    <File Include="KarateOrganization.Core.dll">
+      <publishTime>03/18/2019 01:17:39</publishTime>
+    </File>
+    <File Include="KarateOrganization.Core.pdb">
+      <publishTime>03/18/2019 01:17:39</publishTime>
+    </File>
+    <File Include="KarateOrganization.DataAccess.dll">
+      <publishTime>03/18/2019 01:17:40</publishTime>
+    </File>
+    <File Include="KarateOrganization.DataAccess.pdb">
+      <publishTime>03/18/2019 01:17:40</publishTime>
+    </File>
+    <File Include="KarateOrganization.Dtos.dll">
+      <publishTime>03/18/2019 00:15:04</publishTime>
+    </File>
+    <File Include="KarateOrganization.Dtos.pdb">
+      <publishTime>03/18/2019 00:15:04</publishTime>
+    </File>
+    <File Include="KarateOrganization.Entities.dll">
+      <publishTime>03/18/2019 01:17:40</publishTime>
+    </File>
+    <File Include="KarateOrganization.Entities.pdb">
+      <publishTime>03/18/2019 01:17:40</publishTime>
+    </File>
+    <File Include="KarateOrganization.WebApi.deps.json">
+      <publishTime>03/18/2019 01:17:46</publishTime>
+    </File>
+    <File Include="KarateOrganization.WebApi.dll">
+      <publishTime>03/18/2019 01:17:42</publishTime>
+    </File>
+    <File Include="KarateOrganization.WebApi.pdb">
+      <publishTime>03/18/2019 01:17:42</publishTime>
+    </File>
+    <File Include="KarateOrganization.WebApi.runtimeconfig.json">
+      <publishTime>03/18/2019 01:17:46</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>03/13/2019 14:49:31</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>03/13/2019 14:49:46</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>01/24/2019 23:30:06</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>01/24/2019 23:30:12</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>01/24/2019 23:30:40</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>01/24/2019 23:32:06</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>01/24/2019 23:32:08</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>01/24/2019 23:32:10</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>01/24/2019 23:32:08</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>01/24/2019 23:32:06</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>01/24/2019 23:32:06</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>01/24/2019 23:32:12</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>03/13/2019 14:48:44</publishTime>
+    </File>
+    <File Include="Remotion.Linq.dll">
+      <publishTime>03/13/2019 23:14:37</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>03/13/2019 14:48:55</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>03/13/2019 14:48:56</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>03/13/2019 14:48:57</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>03/13/2019 14:48:58</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>03/13/2019 14:48:58</publishTime>
+    </File>
+    <File Include="System.Interactive.Async.dll">
+      <publishTime>03/13/2019 23:16:40</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/18/2019 01:17:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
