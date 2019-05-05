@@ -2972,11 +2972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KarateOrganization\\KarateOrganization.core\\KarateOrganization.Core.csproj",
+      "projectUniqueName": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\KarateOrganization.Core.csproj",
       "projectName": "KarateOrganization.Core",
-      "projectPath": "C:\\KarateOrganization\\KarateOrganization.core\\KarateOrganization.Core.csproj",
+      "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\KarateOrganization.Core.csproj",
       "packagesPath": "C:\\Users\\ysf\\.nuget\\packages\\",
-      "outputPath": "C:\\KarateOrganization\\KarateOrganization.core\\obj\\",
+      "outputPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

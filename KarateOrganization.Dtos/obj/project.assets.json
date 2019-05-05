@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KarateOrganization\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj",
+      "projectUniqueName": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj",
       "projectName": "KarateOrganization.Dtos",
-      "projectPath": "C:\\KarateOrganization\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj",
+      "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj",
       "packagesPath": "C:\\Users\\ysf\\.nuget\\packages\\",
-      "outputPath": "C:\\KarateOrganization\\KarateOrganization.Dtos\\obj\\",
+      "outputPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

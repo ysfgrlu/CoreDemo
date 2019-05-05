@@ -17,7 +17,7 @@ namespace KarateOrganization.Core
         public void Add(TEntity entity)
         {
             entity.CreatedDate = DateTime.Now;
-            //TODO : Eren - Change "CreatedUserId" after user credentials added.
+            //TODO  - Change "CreatedUserId" after user credentials added.
             entity.CreatedUserId = 1;
             entity.ModifiedUserId = null;
             entity.IsActive = true;
@@ -30,7 +30,7 @@ namespace KarateOrganization.Core
         {
             entity.IsActive = false;
             entity.ModifiedDate = DateTime.Now;
-            //TODO : Eren - Change "ModifiedUserId" after user credentials added.
+            //TODO  - Change "ModifiedUserId" after user credentials added.
             entity.ModifiedUserId = 1;
             var deletedEntity = context.Entry(entity);
             deletedEntity.State = EntityState.Modified;
@@ -58,7 +58,7 @@ namespace KarateOrganization.Core
         {
 
             entity.ModifiedDate = DateTime.Now;
-            //TODO : Eren - Change "ModifiedUserId" after user credentials added.
+            //TODO  - Change "ModifiedUserId" after user credentials added.
             entity.ModifiedUserId = 1;
             var updatedEntity = context.Entry(entity);
             updatedEntity.State = EntityState.Modified;

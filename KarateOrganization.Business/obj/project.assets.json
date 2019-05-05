@@ -3547,11 +3547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KarateOrganization\\KarateOrganization.Business\\KarateOrganization.Business.csproj",
+      "projectUniqueName": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Business\\KarateOrganization.Business.csproj",
       "projectName": "KarateOrganization.Business",
-      "projectPath": "C:\\KarateOrganization\\KarateOrganization.Business\\KarateOrganization.Business.csproj",
+      "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Business\\KarateOrganization.Business.csproj",
       "packagesPath": "C:\\Users\\ysf\\.nuget\\packages\\",
-      "outputPath": "C:\\KarateOrganization\\KarateOrganization.Business\\obj\\",
+      "outputPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3570,17 +3570,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\KarateOrganization\\KarateOrganization.core\\KarateOrganization.Core.csproj": {
-              "projectPath": "C:\\KarateOrganization\\KarateOrganization.core\\KarateOrganization.Core.csproj"
+            "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\KarateOrganization.Core.csproj": {
+              "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\KarateOrganization.Core.csproj"
             },
-            "C:\\KarateOrganization\\KarateOrganization.DataAccess\\KarateOrganization.DataAccess.csproj": {
-              "projectPath": "C:\\KarateOrganization\\KarateOrganization.DataAccess\\KarateOrganization.DataAccess.csproj"
+            "C:\\CoreDemo\\CoreDemo\\KarateOrganization.DataAccess\\KarateOrganization.DataAccess.csproj": {
+              "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.DataAccess\\KarateOrganization.DataAccess.csproj"
             },
-            "C:\\KarateOrganization\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj": {
-              "projectPath": "C:\\KarateOrganization\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj"
+            "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj": {
+              "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Dtos\\KarateOrganization.Dtos.csproj"
             },
-            "C:\\KarateOrganization\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj": {
-              "projectPath": "C:\\KarateOrganization\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj"
+            "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj": {
+              "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj"
             }
           }
         }

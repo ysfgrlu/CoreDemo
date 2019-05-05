@@ -2990,11 +2990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KarateOrganization\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj",
+      "projectUniqueName": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj",
       "projectName": "KarateOrganization.Entities",
-      "projectPath": "C:\\KarateOrganization\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj",
+      "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Entities\\KarateOrganization.Entities.csproj",
       "packagesPath": "C:\\Users\\ysf\\.nuget\\packages\\",
-      "outputPath": "C:\\KarateOrganization\\KarateOrganization.Entities\\obj\\",
+      "outputPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3013,8 +3013,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\KarateOrganization\\KarateOrganization.core\\KarateOrganization.Core.csproj": {
-              "projectPath": "C:\\KarateOrganization\\KarateOrganization.core\\KarateOrganization.Core.csproj"
+            "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\KarateOrganization.Core.csproj": {
+              "projectPath": "C:\\CoreDemo\\CoreDemo\\KarateOrganization.core\\KarateOrganization.Core.csproj"
             }
           }
         }
